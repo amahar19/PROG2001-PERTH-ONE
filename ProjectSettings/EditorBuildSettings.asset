@@ -15,12 +15,21 @@ EditorBuildSettings:
     path: Assets/AasishMaharjan/Scenes/game.unity
     guid: f52c9ada5587dd0419922fe0ce60203a
   - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/options.unity
-    guid: 89076d9787a3df642b701389751febe3
+    path: Assets/AasishMaharjan/Scenes/try again.unity
+    guid: bdd03511e591b3f40816922761ae978a
   - enabled: 1
     path: Assets/AasishMaharjan/Scenes/congratulations.unity
     guid: 9a26ad83cd8fba24f88fd10cd4f7ed47
   - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/try again.unity
-    guid: bdd03511e591b3f40816922761ae978a
+    path: Assets/AasishMaharjan/Scenes/options.unity
+    guid: 89076d9787a3df642b701389751febe3
+  - enabled: 1
+    path: Assets/AasishMaharjan/Scenes/help.unity
+    guid: 54f99796b98aa45469add5227c9fd166
+  - enabled: 1
+    path: Assets/AasishMaharjan/Scenes/credits.unity
+    guid: bf298fe8e25187c45b38c48592693878
+  - enabled: 1
+    path: Assets/AasishMaharjan/Scenes/sound.unity
+    guid: 0c5c5e7300025d04f975954b76ef1620
   m_configObjects: {}
