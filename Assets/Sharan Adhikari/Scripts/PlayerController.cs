@@ -69,7 +69,16 @@ public class PlayerController : MonoBehaviour
         targetPosition += Vector3.right * laneDistance;
       }
 
-      transform.position = targetPosition;
+      
+      if(transform.position == targetPosition)
+      return;
+      Vector3 diff = targetPosition - transform.position;
+      Vector3 moveDir = diff.normalized * 25 * Time.deltaTime;
+      if (moveDir.sqrMagnitude < diff.sqrMagnitude)
+          controller.Move(moveDir);
+          else
+          controller.Move(diff);
+
     }
 
     private void FixedUpdate()
@@ -82,4 +91,12 @@ public class PlayerController : MonoBehaviour
       direction.y = jumpForce;
 
     }
+    private void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+      if(hit.transform.tag == "Barrier")
+      {
+        PlayerManager.gameOver = true;
+      }
+    }
+
 }

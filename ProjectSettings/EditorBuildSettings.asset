@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/AasishMaharjan/Scenes/sound.unity
     guid: 0c5c5e7300025d04f975954b76ef1620
+  - enabled: 1
+    path: Assets/Sharan Adhikari/Scene/MyGame.unity
+    guid: ac6b17697075b394295c3405cd9d928f
   m_configObjects: {}
