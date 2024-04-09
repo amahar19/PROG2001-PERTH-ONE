@@ -5,63 +5,94 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
-    public void ClickToPlay()
-    {
-        SceneManager.LoadScene(2);
-    }
 
-
-    public void ClickToHome()
+    public void ClickToHomeMain()
     {
         SceneManager.LoadScene(0);
     }
 
 
-    public void ClickToOptions()
+    public void ClickToScenesMain()
+    {
+        SceneManager.LoadScene(1);
+    }
+
+
+    public void ClickToOptionsMain()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+
+    public void ClickToHelpMain()
+    {
+        SceneManager.LoadScene(3);
+    }
+
+
+    public void ClickToCreditsMain()
+    {
+        SceneManager.LoadScene(4);
+    }
+
+
+    public void ClickToSoundMain()
     {
         SceneManager.LoadScene(5);
     }
 
 
-    public void ClickToExit()
-    {
-        SceneManager.LoadScene(1);
-    }
-
-
-    public void ClickToTryAgain()
-    {
-        SceneManager.LoadScene(2);
-    }
-
-
-    public void ClickToPlayAgain()
-    {
-        SceneManager.LoadScene(2);
-    }
-
-
-    public void ClickToHelp()
+    public void ClickToHomeAasish()
     {
         SceneManager.LoadScene(6);
     }
 
 
-    public void ClickToCredits()
+    public void ClickToGameAasish()
     {
         SceneManager.LoadScene(7);
     }
 
-    public void ClickToSound()
+
+    public void ClickToOptionsAasish()
     {
         SceneManager.LoadScene(8);
     }
 
-    public void ClickToMySceneHome()
+
+    public void ClickToHelpAasish()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(9);
     }
 
 
+    public void ClickToCreditsAasish()
+    {
+        SceneManager.LoadScene(10);
+    }
+
+
+    public void ClickToSoundAasish()
+    {
+        SceneManager.LoadScene(11);
+    }
+
+
+    public void ClickToTryAgainAasish()
+    {
+        SceneManager.LoadScene(12);
+    }
+
+
+    public void ClickToCongratulationsAasish()
+    {
+        SceneManager.LoadScene(13);
+    }
+
+
+    public void ClickToHomeSharan()
+    {
+        SceneManager.LoadScene(14);
+    }
 
 }
