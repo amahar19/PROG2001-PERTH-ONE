@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 109208724}
   - component: {fileID: 109208723}
   - component: {fileID: 109208722}
+  - component: {fileID: 109208725}
   m_Layer: 5
   m_Name: Sharan scene
   m_TagString: Untagged
@@ -218,6 +219,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 109208725}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: ClickToHomeSharan
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &109208723
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -256,6 +269,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 109208720}
   m_CullTransparentMesh: 1
+--- !u!114 &109208725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 109208720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d610fdfbfb10742a306abb5629f1b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &584881327
 GameObject:
   m_ObjectHideFlags: 0
@@ -268,8 +293,9 @@ GameObject:
   - component: {fileID: 584881331}
   - component: {fileID: 584881330}
   - component: {fileID: 584881329}
+  - component: {fileID: 584881332}
   m_Layer: 5
-  m_Name: options
+  m_Name: back icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -292,8 +318,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1031, y: 422}
-  m_SizeDelta: {x: 300, y: 300}
+  m_AnchoredPosition: {x: -1031, y: 422}
+  m_SizeDelta: {x: 250, y: 250}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &584881329
 MonoBehaviour:
@@ -351,6 +377,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 584881332}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: ClickToHomeMain
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &584881330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -371,7 +409,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6ec5d2b83fa268a4f90afc5a998c2e49, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d239db0cf118efb4793a97c460bf6703, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -389,6 +427,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 584881327}
   m_CullTransparentMesh: 1
+--- !u!114 &584881332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584881327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d610fdfbfb10742a306abb5629f1b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -581,7 +631,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 853425246}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: ClickToMySceneHome
+        m_MethodName: ClickToHomeAasish
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

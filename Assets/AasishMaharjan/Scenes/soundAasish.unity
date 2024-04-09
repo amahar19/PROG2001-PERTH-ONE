@@ -329,7 +329,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7a8f8584908b6c444ad43a7ef9c6f8fb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 30acdaa57946d6244ba638fe989769ae, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -462,7 +462,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ad94916e80baf4545a295baaf7d3e78b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d239db0cf118efb4793a97c460bf6703, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1258,7 +1258,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 987968341}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: ClickToMySceneHome
+        m_MethodName: ClickToOptionsAasish
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
