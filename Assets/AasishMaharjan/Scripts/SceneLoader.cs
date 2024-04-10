@@ -95,4 +95,9 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(14);
     }
 
+
+    public void ClickToHomeDev()
+    {
+        SceneManager.LoadScene(15);
+    }
 }
