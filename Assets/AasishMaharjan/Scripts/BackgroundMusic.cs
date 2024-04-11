@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class BackgroundMusic : MonoBehaviour
 {
@@ -16,6 +18,15 @@ public class BackgroundMusic : MonoBehaviour
 
         else
         {
+            Destroy(gameObject);
+        }
+    }
+
+    void Update()
+    {
+        if (SceneManager.GetActiveScene().name == "homeAasish")
+        {
+            // Destroy the background music object if not needed in the home scene
             Destroy(gameObject);
         }
     }
