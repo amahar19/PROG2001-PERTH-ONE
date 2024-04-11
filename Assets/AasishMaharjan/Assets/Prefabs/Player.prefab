@@ -1296,7 +1296,14 @@ Animator:
   m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
-  m_WarningMessage: 
+  m_WarningMessage: "\nBinding warning: Some generic clip(s) animate transforms that
+    are already bound by a Humanoid avatar. These transforms can only be changed
+    by Humanoid clips.\n\tTransform 'mixamorig6:Hips'\n\tTransform 'mixamorig6:LeftHandIndex1'\n\tTransform
+    'mixamorig6:RightForeArm'\n\tTransform 'mixamorig6:RightHandMiddle2'\n\tTransform
+    'mixamorig6:LeftHandPinky2'\n\tTransform 'mixamorig6:LeftToeBase'\n\tTransform
+    'mixamorig6:RightShoulder'\n\tTransform 'mixamorig6:Spine1'\n\tTransform 'mixamorig6:Hips'\n\tTransform
+    'mixamorig6:LeftHandMiddle1'\n\tand more ...\n\tFrom animation clip 'Standing
+    Idle'"
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
@@ -1312,13 +1319,13 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 1.8
+  m_Height: 1.5
   m_Radius: 0.4
   m_SlopeLimit: 45
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0.76, z: 0}
+  m_Center: {x: 0, y: 1, z: 0}
 --- !u!1 &4891015251026005479
 GameObject:
   m_ObjectHideFlags: 0
@@ -2146,7 +2153,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8802160642340456803}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalPosition: {x: -0, y: 0.22, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
