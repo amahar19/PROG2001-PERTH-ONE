@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerManager : MonoBehaviour
 {
     public static bool gameOver;
     public GameObject gameOverPanel;
     public static int numberOfSpheres;
+    public Text spheresText;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,5 +28,6 @@ public class PlayerManager : MonoBehaviour
             Time.timeScale = 0;
             gameOverPanel.SetActive(true);
         }
+        spheresText.text = "Spheres: " + numberOfSpheres;
     }
 }

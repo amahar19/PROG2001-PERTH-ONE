@@ -18,12 +18,15 @@ public class Sphere : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Collision Detected");
+         Debug.Log("OnTriggerEnter called");
         if(other.tag == "Player")
-        {
+    {
+         Debug.Log("Collision Detected with Player");
             PlayerManager.numberOfSpheres += 1;
-            Debug.Log("Sphere:" + PlayerManager.numberOfSpheres);
+            Debug.Log("Spheres: " + PlayerManager.numberOfSpheres);
             Destroy(gameObject);
         }
+
+
     }
 }
