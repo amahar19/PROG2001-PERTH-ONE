@@ -10,9 +10,9 @@ public class PlayerManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        gameOver = false;
         Time.timeScale = 1;
-
+        gameOver = false;
+        
         numberOfSpheres = 0;
         
         
