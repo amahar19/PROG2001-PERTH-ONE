@@ -1063,8 +1063,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 999473361}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.1698936, y: -0.7053708, z: -0.67701834}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.1698914, y: -0.70536804, z: -0.67701834}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1911,7 +1911,10 @@ GameObject:
   - component: {fileID: 2121959304}
   - component: {fileID: 2121959303}
   - component: {fileID: 2121959307}
+<<<<<<< Updated upstream
   - component: {fileID: 2121959308}
+=======
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
