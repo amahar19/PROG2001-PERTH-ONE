@@ -5,99 +5,63 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
-
-    public void ClickToHomeMain()
-    {
-        SceneManager.LoadScene(0);
-    }
-
-
-    public void ClickToScenesMain()
-    {
-        SceneManager.LoadScene(1);
-    }
-
-
-    public void ClickToOptionsMain()
+    public void ClickToPlay()
     {
         SceneManager.LoadScene(2);
     }
 
 
-    public void ClickToHelpMain()
+    public void ClickToHome()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(0);
     }
 
 
-    public void ClickToCreditsMain()
-    {
-        SceneManager.LoadScene(4);
-    }
-
-
-    public void ClickToSoundMain()
+    public void ClickToOptions()
     {
         SceneManager.LoadScene(5);
     }
 
 
-    public void ClickToHomeAasish()
+    public void ClickToExit()
+    {
+        SceneManager.LoadScene(1);
+    }
+
+
+    public void ClickToTryAgain()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+
+    public void ClickToPlayAgain()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+
+    public void ClickToHelp()
     {
         SceneManager.LoadScene(6);
     }
 
 
-    public void ClickToGameAasish()
+    public void ClickToCredits()
     {
         SceneManager.LoadScene(7);
     }
 
-
-    public void ClickToOptionsAasish()
+    public void ClickToSound()
     {
         SceneManager.LoadScene(8);
     }
 
-
-    public void ClickToHelpAasish()
+    public void ClickToMySceneHome()
     {
-        SceneManager.LoadScene(9);
+        SceneManager.LoadScene(1);
     }
 
 
-    public void ClickToCreditsAasish()
-    {
-        SceneManager.LoadScene(10);
-    }
 
-
-    public void ClickToSoundAasish()
-    {
-        SceneManager.LoadScene(11);
-    }
-
-
-    public void ClickToTryAgainAasish()
-    {
-        SceneManager.LoadScene(12);
-    }
-
-
-    public void ClickToCongratulationsAasish()
-    {
-        SceneManager.LoadScene(13);
-    }
-
-
-    public void ClickToHomeSharan()
-    {
-        SceneManager.LoadScene(14);
-    }
-
-
-    public void ClickToHomeDev()
-    {
-        SceneManager.LoadScene(15);
-    }
 }

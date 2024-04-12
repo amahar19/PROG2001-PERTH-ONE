@@ -6,51 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Main Menu/Scenes/homeMain.unity
-    guid: 538c788986b4c5943986869c23551b42
-  - enabled: 1
-    path: Assets/Main Menu/Scenes/scenesMain.unity
+    path: Assets/Menu/Scenes/Menu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Main Menu/Scenes/optionsMain.unity
-    guid: 2d6cd04ec6bd9e143bd94086fd95e7d3
-  - enabled: 1
-    path: Assets/Main Menu/Scenes/helpMain.unity
-    guid: d209ac4912100f346bf01a73b4d107c7
-  - enabled: 1
-    path: Assets/Main Menu/Scenes/creditsMain.unity
-    guid: a2426c2e1bd6b7540927ccc57f2852ce
-  - enabled: 1
-    path: Assets/Main Menu/Scenes/soundMain.unity
-    guid: e8a5876428c5fd94bb3a29e1eb7f3715
-  - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/homeAasish.unity
+    path: Assets/AasishMaharjan/Scenes/main.unity
     guid: c20d82cc16f2a074b9cc54a904c8b85c
   - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/gameAasish.unity
+    path: Assets/AasishMaharjan/Scenes/game.unity
     guid: f52c9ada5587dd0419922fe0ce60203a
   - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/optionsAsish.unity
-    guid: 89076d9787a3df642b701389751febe3
-  - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/helpAasish.unity
-    guid: 54f99796b98aa45469add5227c9fd166
-  - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/creditsAasish.unity
-    guid: bf298fe8e25187c45b38c48592693878
-  - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/soundAasish.unity
-    guid: 0c5c5e7300025d04f975954b76ef1620
-  - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/tryagainAasish.unity
+    path: Assets/AasishMaharjan/Scenes/try again.unity
     guid: bdd03511e591b3f40816922761ae978a
   - enabled: 1
-    path: Assets/AasishMaharjan/Scenes/congratulationsAasish.unity
+    path: Assets/AasishMaharjan/Scenes/congratulations.unity
     guid: 9a26ad83cd8fba24f88fd10cd4f7ed47
+  - enabled: 1
+    path: Assets/AasishMaharjan/Scenes/options.unity
+    guid: 89076d9787a3df642b701389751febe3
+  - enabled: 1
+    path: Assets/AasishMaharjan/Scenes/help.unity
+    guid: 54f99796b98aa45469add5227c9fd166
+  - enabled: 1
+    path: Assets/AasishMaharjan/Scenes/credits.unity
+    guid: bf298fe8e25187c45b38c48592693878
+  - enabled: 1
+    path: Assets/AasishMaharjan/Scenes/sound.unity
+    guid: 0c5c5e7300025d04f975954b76ef1620
   - enabled: 1
     path: Assets/Sharan Adhikari/Scene/MyGame.unity
     guid: ac6b17697075b394295c3405cd9d928f
-  - enabled: 1
-    path: Assets/Dev Bhujel Game/Scenes/gameDev.unity
-    guid: 42018a6d87add624c91287c700f3d4b4
   m_configObjects: {}
