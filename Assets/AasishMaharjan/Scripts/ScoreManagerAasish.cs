@@ -5,16 +5,16 @@ using UnityEngine.UI;
 
 public class ScoreManagerAasish : MonoBehaviour
 {
-    public Text scoreText; // Change the type to Text
-    public int theScore;
-    public AudioSource collectSound;
+    public GameObject scoreText; // Change the type to Text
+    public static int theScore;
+    
 
-    void OnTriggerEnter(Collider other)
+    void Update()
     {
-        collectSound.Play();
-        theScore += 50;
-        scoreText.text = "SCORE: " + theScore; // Access the text property directly
-        Destroy(gameObject);
+        
+        
+        scoreText.GetComponent<Text>().text = "SCORE: " + theScore; // Access the text property directly
+        
     }
 }
 
