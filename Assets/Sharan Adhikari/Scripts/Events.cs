@@ -7,11 +7,11 @@ public class Events : MonoBehaviour
 {
    public void ReplayGame()
    {
-    SceneManager.LoadScene("MyGame");
+    SceneManager.LoadScene("SharanGame");
    }
    
    public void QuitGame()
    {
-    Application.Quit();
+      SceneManager.LoadScene("SharanMenu");
    }
 }

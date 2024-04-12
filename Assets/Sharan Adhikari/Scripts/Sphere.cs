@@ -21,6 +21,7 @@ public class Sphere : MonoBehaviour
          Debug.Log("OnTriggerEnter called");
         if(other.tag == "Player")
     {
+        FindObjectOfType<SoundManager>().PlaySound("sphere touch");
          Debug.Log("Collision Detected with Player");
             PlayerManager.numberOfSpheres += 1;
             Debug.Log("Spheres: " + PlayerManager.numberOfSpheres);
