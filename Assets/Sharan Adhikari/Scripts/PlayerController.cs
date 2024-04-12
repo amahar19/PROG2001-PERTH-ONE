@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
    private CharacterController controller;
    private Vector3 direction;
    public float forwardSpeed;
+   public float maxSpeed;
    private int desiredLane = 1; // 0 left, 1 middle, 2 right
    public float laneDistance = 4; //distance between 2 lanes
    public float jumpForce; 
@@ -22,6 +23,11 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+      //increase speed
+      if (forwardSpeed < maxSpeed)
+      forwardSpeed += 0.1f * Time.deltaTime;
+        
+        
         direction.z =forwardSpeed;
 
         
