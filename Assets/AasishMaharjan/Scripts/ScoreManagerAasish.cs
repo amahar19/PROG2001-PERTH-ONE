@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ScoreManagerAasish : MonoBehaviour
 {
-    public GameObject scoreText; // Change the type to Text
+    public Text scoreText; // Change the type to Text
     public static int theScore;
     
 
