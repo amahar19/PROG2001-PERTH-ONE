@@ -36,9 +36,11 @@ EditorBuildSettings:
     path: Assets/Sharan Adhikari/Scene/SharanGame.unity
     guid: ac6b17697075b394295c3405cd9d928f
   - enabled: 1
+
     path: Assets/Sharan Adhikari/Scene/SharanMenu.unity
     guid: b99292750eb58f148b4f4bfc3df6a662
+    path: Assets/Dev Bhujel Game/Scenes/gameDev.unity
+    guid: 42018a6d87add624c91287c700f3d4b4
   - enabled: 1
-    path: Assets/Sharan Adhikari/Scene/SharanHelp.unity
-    guid: 390a0893e989c6a42b2998233c8e33a3
-  m_configObjects: {}
+    path: Assets/Kowsar Rahman/Scenes/GameKowsar.unity
+    guid: 86d54fb0d331f5f4abc2a0ed2fee4f54
