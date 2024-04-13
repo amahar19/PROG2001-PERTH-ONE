@@ -123,16 +123,16 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
-<<<<<<< HEAD:Assets/AasishMaharjan/Scenes/game.unity
+ HEAD:Assets/AasishMaharjan/Scenes/game.unity
 --- !u!1 &393950004
-=======
+
 --- !u!1 &1417582 stripped
->>>>>>> 9064be5482feb9682208dff2558b0e6f36938513:Assets/AasishMaharjan/Scenes/gameAasish.unity
+ 9064be5482feb9682208dff2558b0e6f36938513:Assets/AasishMaharjan/Scenes/gameAasish.unity
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6999392496732889378, guid: c65df2ca4c250c442925bcdb64911c51, type: 3}
   m_PrefabInstance: {fileID: 763726987}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD:Assets/AasishMaharjan/Scenes/game.unity
+ HEAD:Assets/AasishMaharjan/Scenes/game.unity
   serializedVersion: 6
   m_Component:
   - component: {fileID: 393950008}
@@ -211,9 +211,9 @@ MeshFilter:
   m_GameObject: {fileID: 393950004}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &393950008
-=======
+
 --- !u!4 &1417583 stripped
->>>>>>> 9064be5482feb9682208dff2558b0e6f36938513:Assets/AasishMaharjan/Scenes/gameAasish.unity
+ 9064be5482feb9682208dff2558b0e6f36938513:Assets/AasishMaharjan/Scenes/gameAasish.unity
 Transform:
   m_CorrespondingSourceObject: {fileID: 7667667299490085784, guid: c65df2ca4c250c442925bcdb64911c51, type: 3}
   m_PrefabInstance: {fileID: 763726987}
@@ -224,7 +224,7 @@ MeshCollider:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD:Assets/AasishMaharjan/Scenes/game.unity
+ HEAD:Assets/AasishMaharjan/Scenes/game.unity
   m_GameObject: {fileID: 393950004}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.095464, y: -0.4176127, z: 1.1000363}
@@ -234,7 +234,7 @@ MeshCollider:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
+
   m_GameObject: {fileID: 1417582}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -61139,4 +61139,4 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 677883068091563691, guid: 2f063d1731a14f24eb3d35f5ad829dc1, type: 3}
   m_PrefabInstance: {fileID: 8274901214305491242}
   m_PrefabAsset: {fileID: 0}
->>>>>>> 9064be5482feb9682208dff2558b0e6f36938513:Assets/AasishMaharjan/Scenes/gameAasish.unity
+ 9064be5482feb9682208dff2558b0e6f36938513:Assets/AasishMaharjan/Scenes/gameAasish.unity
