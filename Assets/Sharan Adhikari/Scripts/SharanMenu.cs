@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MainMenu : MonoBehaviour
+public class SharanMenu : MonoBehaviour
 {
     public void PlayGame()
     {
@@ -14,6 +14,11 @@ public class MainMenu : MonoBehaviour
     public void QuitGame()
     {
         SceneManager.LoadScene("Menu");
+    }
+
+    public void HelpGame()
+    {
+        SceneManager.LoadScene("SharanHelp");
     }
 
 }
