@@ -1,30 +1,36 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerManager : MonoBehaviour
 {
     public static bool gameOver;
     public GameObject gameOverPanel;
     public static int numberOfSpheres;
-    // Start is called before the first frame update
+    public Text spheresText;
+
     void Start()
     {
         Time.timeScale = 1;
         gameOver = false;
-        
         numberOfSpheres = 0;
-        
-        
+
+        // Find the Text component in children
+        spheresText = GetComponentInChildren<Text>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if(gameOver)
+        if (gameOver)
         {
             Time.timeScale = 0;
             gameOverPanel.SetActive(true);
+        }
+
+        if (spheresText != null)
+        {
+            spheresText.text = "Spheres: " + numberOfSpheres;
         }
     }
 }

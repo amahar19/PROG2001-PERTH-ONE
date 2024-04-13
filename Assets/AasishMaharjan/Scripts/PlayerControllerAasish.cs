@@ -9,6 +9,10 @@ public class PlayerControllerAasish : MonoBehaviour
 
     private float moveSpeed = 4f;
 
+    [Header("Movement System")]
+    public float walkSpeed = 4f;
+    public float runSpeed = 8f;
+
 
     // Start is called before the first frame update
     void Start()
@@ -30,6 +34,19 @@ public class PlayerControllerAasish : MonoBehaviour
 
         Vector3 dir = new Vector3(horizontal, 0f, vertical).normalized;
         Vector3 velocity = moveSpeed * Time.deltaTime * dir;
+
+
+        if(Input.GetButton("Sprint"))
+        {
+            moveSpeed = runSpeed;
+            animator.SetBool("Running", true);
+        }
+
+        else
+        {
+            moveSpeed = walkSpeed;
+            animator.SetBool("Running", false);
+        }
 
         if(dir.magnitude >= 0.1f)
         {
