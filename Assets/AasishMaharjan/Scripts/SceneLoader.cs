@@ -100,4 +100,9 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(15);
     }
+
+    public void ClickToHomeKowsar()
+    {
+        SceneManager.LoadScene(16);
+    }
 }
