@@ -12,6 +12,11 @@ public class PlayerMovement : MonoBehaviour
     float xInput;
     float yInput;
 
+    int score = 0;
+    public int winScore;
+
+    public GameObject winText;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody>();
@@ -36,4 +41,24 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.tag == "Coin")
+        {
+            other.gameObject.SetActive(false);
+
+
+            score++;
+
+
+            if(score >= winScore)
+            {
+
+                //Game is Completed
+                winText.SetActive(true);
+
+            }
+
+        }
+    }
 }
