@@ -9,25 +9,28 @@ public class PlayerManager : MonoBehaviour
     public GameObject gameOverPanel;
     public static int numberOfSpheres;
     public Text spheresText;
-    // Start is called before the first frame update
+
     void Start()
     {
         Time.timeScale = 1;
         gameOver = false;
-        
         numberOfSpheres = 0;
-        
-        
+
+        // Find the Text component in children
+        spheresText = GetComponentInChildren<Text>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if(gameOver)
+        if (gameOver)
         {
             Time.timeScale = 0;
             gameOverPanel.SetActive(true);
         }
-        spheresText.text = "Spheres: " + numberOfSpheres;
+
+        if (spheresText != null)
+        {
+            spheresText.text = "Spheres: " + numberOfSpheres;
+        }
     }
 }

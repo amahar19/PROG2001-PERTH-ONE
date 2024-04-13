@@ -16,7 +16,7 @@ public class Sphere : MonoBehaviour
         transform.Rotate(20 * Time.deltaTime, 0, 0);
     }
 
-    private void OnTriggerEnter(Collider other)
+     void OnTriggerEnter(Collider other)
     {
          Debug.Log("OnTriggerEnter called");
         if(other.tag == "Player")
