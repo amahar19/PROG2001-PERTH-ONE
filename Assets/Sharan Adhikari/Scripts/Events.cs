@@ -14,4 +14,9 @@ public class Events : MonoBehaviour
    {
       SceneManager.LoadScene("SharanMenu");
    }
+
+   public void HelpGame()
+   {
+      SceneManager.LoadScene("SharanHelp");
+   }
 }
