@@ -102,6 +102,7 @@ public class PlayerController : MonoBehaviour
       if(hit.transform.tag == "Barrier")
       {
         PlayerManager.gameOver = true;
+        FindObjectOfType<SoundManager>().PlaySound("game over");
       }
     }
 
