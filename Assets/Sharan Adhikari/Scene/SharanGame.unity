@@ -1340,24 +1340,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sphere
       objectReference: {fileID: 0}
-    - target: {fileID: 3154070729415856101, guid: 04d459662710b1045b3d5300b4387266, type: 3}
-      propertyPath: m_Radius
-      value: 0.5000001
-      objectReference: {fileID: 0}
-    - target: {fileID: 3154070729415856101, guid: 04d459662710b1045b3d5300b4387266, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3154070729415856101, guid: 04d459662710b1045b3d5300b4387266, type: 3}
-      propertyPath: m_Center.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3154070729415856101, guid: 04d459662710b1045b3d5300b4387266, type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 3154070729415856101, guid: 04d459662710b1045b3d5300b4387266, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 04d459662710b1045b3d5300b4387266, type: 3}
 --- !u!1001 &1411192193
 PrefabInstance:
@@ -2035,6 +2018,24 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &2119826760 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7525564661613012854, guid: a4f824de0dde659419550cbebbe17661, type: 3}
+  m_PrefabInstance: {fileID: 852868106}
+  m_PrefabAsset: {fileID: 0}
+--- !u!135 &2119826765
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2119826760}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5000001
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &2121959302
 GameObject:
   m_ObjectHideFlags: 0
