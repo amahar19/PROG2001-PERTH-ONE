@@ -63,38 +63,5 @@ public class SceneLoader : MonoBehaviour
     }
 
 
-    public void ClickToSoundAasish()
-    {
-        SceneManager.LoadScene(11);
-    }
-
-
-    public void ClickToTryAgainAasish()
-    {
-        SceneManager.LoadScene(12);
-    }
-
-
-    public void ClickToCongratulationsAasish()
-    {
-        SceneManager.LoadScene(13);
-    }
-
-
-    public void ClickToHomeSharan()
-    {
-        SceneManager.LoadScene(14);
-    }
-
-
-    public void ClickToHomeDev()
-    {
-        SceneManager.LoadScene(15);
-    }
-
-    public void ClickToHomeKowsar()
-    {
-        SceneManager.LoadScene(16);
-    }
 
 }

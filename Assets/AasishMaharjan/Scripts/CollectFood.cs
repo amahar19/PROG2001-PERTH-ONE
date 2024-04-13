@@ -32,7 +32,7 @@ public class CollectFood : MonoBehaviour
         GameObject[] collectibles = GameObject.FindGameObjectsWithTag("Collectible");
         Debug.Log("Number of collectibles: " + collectibles.Length);
         // If no collectibles are left in the scene, return true
-        return collectibles.Length == 1;
+        return collectibles.Length == 0;
     }
 
     void ShowCongratulationsPanel()
