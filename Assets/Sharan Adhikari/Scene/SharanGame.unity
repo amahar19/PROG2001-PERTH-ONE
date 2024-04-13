@@ -1725,10 +1725,23 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
-  m_Radius: 0.5000001
-  m_Height: 2
+  m_Radius: 0.53
+  m_Height: 0.15
   m_Direction: 1
-  m_Center: {x: 5.96, y: 0, z: -8.940697}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!135 &1556325600
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1556325591}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.55
+  m_Center: {x: -0.000030517578, y: 0, z: 0}
 --- !u!4 &1636281039 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8084993c8955246438c3097d847ca0d7, type: 3}
@@ -2067,8 +2080,8 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 2
+  m_Radius: 1.21
+  m_Height: 2.43
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &2121959304
