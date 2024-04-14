@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class soundManager : MonoBehaviour
+public class soundManagerKowsar : MonoBehaviour
 {
-    public static soundManager instance;
+    public static soundManagerKowsar instance;
     public AudioSource coinssource;
     public AudioClip coinSound;
     private void Awake()

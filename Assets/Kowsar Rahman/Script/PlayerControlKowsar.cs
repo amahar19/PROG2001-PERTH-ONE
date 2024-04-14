@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-public class PlayerControl : MonoBehaviour
+public class PlayerControlKowsar : MonoBehaviour
 {
     public float speed = 30f;
     public Rigidbody rigid;
@@ -39,7 +39,7 @@ void Update()
     {
         if(other.gameObject.CompareTag("coin"))
         {
-            soundManager.instance.coinssource.PlayOneShot(soundManager.instance.coinSound);
+            soundManagerKowsar.instance.coinssource.PlayOneShot(soundManagerKowsar.instance.coinSound);
             other.gameObject.SetActive(false);
             score++;
             scoretxt.text = "Score : " + score.ToString();
