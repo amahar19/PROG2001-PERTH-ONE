@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Barrier
-  - Collectible
+  - Coin
+  - Jump
   layers:
   - Default
   - TransparentFX
