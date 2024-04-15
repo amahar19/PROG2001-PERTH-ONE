@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,6 +18,10 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
+    internal static void LoadScene(string v)
+    {
+        throw new NotImplementedException();
+    }
 
     public void ClickToOptionsMain()
     {
