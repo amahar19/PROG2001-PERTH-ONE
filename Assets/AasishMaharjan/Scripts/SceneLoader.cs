@@ -78,26 +78,35 @@ public class SceneLoader : MonoBehaviour
     }
 
 
-    public void ClickToTryAgainAasish()
+    public void ClickToGameDev()
     {
         SceneManager.LoadScene(12);
     }
 
 
-    public void ClickToCongratulationsAasish()
+    public void ClickToGameRahman()
     {
         SceneManager.LoadScene(13);
     }
 
-
-    public void ClickToHomeSharan()
+    public void ClickToHomeRahman()
     {
         SceneManager.LoadScene(14);
     }
 
-
-    public void ClickToHomeDev()
+    public void ClickToGameSharan()
     {
         SceneManager.LoadScene(15);
+    }
+
+
+    public void ClickToHelpSharan()
+    {
+        SceneManager.LoadScene(16);
+    }
+
+    public void ClickToMenuSharan()
+    {
+        SceneManager.LoadScene(17);
     }
 }
