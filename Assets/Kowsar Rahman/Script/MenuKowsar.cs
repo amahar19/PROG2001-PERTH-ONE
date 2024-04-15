@@ -9,11 +9,20 @@ public class MenuKowsar : MonoBehaviour
     
     public void StartGame()
     {
-        SceneManager.LoadScene(16);
+        SceneManager.LoadScene(13);
     }
     public void Reset()
     {
-        SceneManager.LoadScene(16);
-        print("Working");
+        SceneManager.LoadScene(13);
+        
+    }
+    public void Quit()
+    {
+        SceneManager.LoadScene(1);
+         }
+    public void Menu()
+    {
+        SceneManager.LoadScene(14);
+        
     }
 }

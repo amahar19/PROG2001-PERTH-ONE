@@ -45,10 +45,10 @@ EditorBuildSettings:
     path: Assets/Dev Bhujel Game/Scenes/gameDev.unity
     guid: 47a81d36ad9516c4693ac8758a645326
   - enabled: 1
-    path: Assets/Kowsar Rahman/Scenes/gameRahman.unity
+    path: Assets/Kowsar Rahman/Scenes/KowsarGame.unity
     guid: 86d54fb0d331f5f4abc2a0ed2fee4f54
   - enabled: 1
-    path: Assets/Kowsar Rahman/Scenes/homeRahman.unity
+    path: Assets/Kowsar Rahman/Scenes/KowsarMenu.unity
     guid: fde0010d0dd91274d8258c0fda75f346
   - enabled: 1
     path: Assets/Sharan Adhikari/Scene/SharanGame.unity
