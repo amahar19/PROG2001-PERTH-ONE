@@ -24,4 +24,9 @@ public class PlatformScript : MonoBehaviour
             transform.Translate(new Vector3(-5, 0, 0) * Time.deltaTime);
         }
     }
+
+    public void ResetPlatform()
+    {
+        transform.position = orginialPosition;
+    }
 }

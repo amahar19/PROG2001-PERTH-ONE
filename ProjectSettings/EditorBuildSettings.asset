@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Dev Bhujel Game/Scenes/DevsMenu.unity
+    guid: f3638ab9d6b50944cb928b0fb802e42f
+  - enabled: 1
+    path: Assets/Dev Bhujel Game/Scenes/Game2.unity
+    guid: 1391daf5f2ffea8438d39902db675d30
   m_configObjects: {}
