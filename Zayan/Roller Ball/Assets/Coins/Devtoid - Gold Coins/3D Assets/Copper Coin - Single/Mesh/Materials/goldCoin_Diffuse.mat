@@ -7,20 +7,57 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat
+=======
+<<<<<<<< HEAD:Assets/Dev Bhujel Game/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.mat
+  m_Name: FS002_Day
+  m_Shader: {fileID: 108, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _MAPPING_LATITUDE_LONGITUDE_LAYOUT
+========
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   m_Name: goldCoin_Diffuse
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _NORMALMAP
+<<<<<<< Updated upstream
   m_InvalidKeywords: []
+=======
+<<<<<<< HEAD
+========
+  m_Name: New Material
+  m_Shader: {fileID: 10765, guid: 0000000000000000f000000000000000, type: 0}
+  m_ValidKeywords: []
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Prefabs/New Material.mat
+  m_InvalidKeywords: []
+=======
+  m_InvalidKeywords: []
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+<<<<<<< Updated upstream
   m_LockedProperties: 
+=======
+<<<<<<< HEAD
+  m_LockedProperties: 
+=======
+<<<<<<<< HEAD:Assets/Dev Bhujel Game/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.mat
+========
+  m_LockedProperties: 
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -44,10 +81,34 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< Updated upstream
     - _MainTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+=======
+<<<<<<< HEAD
+    - _MainBump:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+<<<<<<<< HEAD:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat
+        m_Texture: {fileID: 0}
+========
+        m_Texture: {fileID: 2800000, guid: c4f13702e4b7f014188cb8ed99a0c13b, type: 3}
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Prefabs/New Material.mat
+=======
+    - _MainTex:
+<<<<<<<< HEAD:Assets/Dev Bhujel Game/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.mat
+        m_Texture: {fileID: 2800000, guid: 90bac99dc822bf641b140cdc291b845e, type: 3}
+========
+        m_Texture: {fileID: 0}
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+>>>>>>> Stashed changes
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -63,22 +124,91 @@ Material:
     m_Ints: []
     m_Floats:
     - _BumpScale: 1
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _ColorMask: 15
+>>>>>>> Stashed changes
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
+<<<<<<< Updated upstream
     - _Glossiness: 0
+=======
+<<<<<<<< HEAD:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat
+    - _Glossiness: 0
+========
+    - _Glossiness: 0.5
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Prefabs/New Material.mat
+=======
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+<<<<<<<< HEAD:Assets/Dev Bhujel Game/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.mat
+    - _Exposure: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _ImageType: 0
+    - _Layout: 0
+    - _Mapping: 1
+    - _Metallic: 0
+    - _MirrorOnBack: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Rotation: 0
+========
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _Shininess: 0.2
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UVSec: 0
+    - _UseUIAlphaClip: 0
+=======
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat
+>>>>>>> Stashed changes
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+<<<<<<< Updated upstream
+=======
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+<<<<<<< Updated upstream
   m_BuildTextureStacks: []
+=======
+<<<<<<< HEAD
+    - _Specular: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+=======
+<<<<<<<< HEAD:Assets/Dev Bhujel Game/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.mat
+    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+========
+  m_BuildTextureStacks: []
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coin - Single/Mesh/Materials/goldCoin_Diffuse.mat
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes

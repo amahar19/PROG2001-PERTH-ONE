@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 0a29ee4aa4afc544f92fd5ea903f1c5e
+=======
+<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Models/Tiles/Tile_Road_Solo.fbx.meta
+guid: 0a29ee4aa4afc544f92fd5ea903f1c5e
+=======
+guid: 5c19341caa94ef94ab30cb892339f7ca
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Models/Tiles/Tile_Road_Solo.fbx.meta
+>>>>>>> Stashed changes
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []

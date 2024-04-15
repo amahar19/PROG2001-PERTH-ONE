@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: c8b5d528bd5a1e946b3b39f3fd6ee108
+=======
+<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Materials/Candyland.mat.meta
+guid: c8b5d528bd5a1e946b3b39f3fd6ee108
+=======
+guid: b46b17a83227871448fb9ac471651039
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Materials/Candyland.mat.meta
+>>>>>>> Stashed changes
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

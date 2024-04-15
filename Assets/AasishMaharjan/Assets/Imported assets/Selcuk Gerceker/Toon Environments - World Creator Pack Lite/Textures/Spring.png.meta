@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 87b99044685c98b4d90376a26b56506d
+=======
+<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Textures/Spring.png.meta
+guid: 87b99044685c98b4d90376a26b56506d
+=======
+guid: 88a7aac483434b1499b44b58223c71f4
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Textures/Spring.png.meta
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

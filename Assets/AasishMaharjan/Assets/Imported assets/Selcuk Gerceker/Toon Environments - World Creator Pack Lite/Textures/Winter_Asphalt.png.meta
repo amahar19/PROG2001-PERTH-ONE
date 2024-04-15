@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 5b6725f0db3fe95449ed892732ffe68e
+=======
+<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Textures/Winter_Asphalt.png.meta
+guid: 5b6725f0db3fe95449ed892732ffe68e
+=======
+guid: 43aaa776b2e43c048befb399081d28fe
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Textures/Winter_Asphalt.png.meta
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

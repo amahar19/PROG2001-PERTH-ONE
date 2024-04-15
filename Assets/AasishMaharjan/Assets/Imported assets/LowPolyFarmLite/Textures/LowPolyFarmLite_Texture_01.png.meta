@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 7bc9a4bafdf20d7409ec5c6155c56f4e
+=======
+<<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/LowPolyFarmLite/Textures/LowPolyFarmLite_Texture_01.png.meta
+guid: 7bc9a4bafdf20d7409ec5c6155c56f4e
+========
+guid: b14f6231b4f238849ac726574ce7e609
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/AasishMaharjan/Buttons and Icons/no.png.meta
+>>>>>>> Stashed changes
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}

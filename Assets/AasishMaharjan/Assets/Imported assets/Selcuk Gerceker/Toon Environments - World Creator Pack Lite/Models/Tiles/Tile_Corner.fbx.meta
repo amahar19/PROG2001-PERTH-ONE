@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: fcc9fcd15357553428083041c5b391a6
+=======
+<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Models/Tiles/Tile_Corner.fbx.meta
+guid: fcc9fcd15357553428083041c5b391a6
+=======
+guid: 6f83992ac157a814b944bd5cd6370657
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Models/Tiles/Tile_Corner.fbx.meta
+>>>>>>> Stashed changes
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []

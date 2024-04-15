@@ -24,9 +24,12 @@ public class PlatformScript : MonoBehaviour
             transform.Translate(new Vector3(-5, 0, 0) * Time.deltaTime);
         }
     }
+<<<<<<< Updated upstream
 
     public void ResetPlatform()
     {
         transform.position = orginialPosition;
     }
+=======
+>>>>>>> Stashed changes
 }

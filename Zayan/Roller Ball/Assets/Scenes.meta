@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 7b50f0547a67c6d46b55feae1f7c3084
+=======
+<<<<<<<< HEAD:Zayan/Roller Ball/Assets/Scenes.meta
+guid: 7b50f0547a67c6d46b55feae1f7c3084
+========
+guid: b00ac8a872b651a469fec34abb074309
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Food Pack-Demo/Scenes.meta
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

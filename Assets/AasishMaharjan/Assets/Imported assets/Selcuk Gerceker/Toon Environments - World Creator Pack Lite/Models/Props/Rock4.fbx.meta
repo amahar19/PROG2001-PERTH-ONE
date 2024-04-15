@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: b17d0ffcc8f8831499ce3557e0434bea
+=======
+<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Models/Props/Rock4.fbx.meta
+guid: b17d0ffcc8f8831499ce3557e0434bea
+=======
+guid: 6c0e5d352811fb04082c814ab3f5cdfe
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Models/Props/Rock4.fbx.meta
+>>>>>>> Stashed changes
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []

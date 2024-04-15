@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: f2b0f3a6eb99b41409350fabfd873296
+=======
+<<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/LowPolyFarmLite/Models.meta
+guid: f2b0f3a6eb99b41409350fabfd873296
+========
+guid: e0aabea1c9bbf2447a309b7836d77854
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Models.meta
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

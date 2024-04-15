@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 2931f365703fed744a5211007b79e24d
+=======
+<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Prefabs/Tiles/Tile_Corner_Foundation.prefab.meta
+guid: 2931f365703fed744a5211007b79e24d
+=======
+guid: cc63a48c4ca542c4eba0ec4fb7ca43c2
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Selcuk Gerceker/Toon Environments - World Creator Pack Lite/Prefabs/Tiles/Tile_Corner_Foundation.prefab.meta
+>>>>>>> Stashed changes
 PrefabImporter:
   externalObjects: {}
   userData: 

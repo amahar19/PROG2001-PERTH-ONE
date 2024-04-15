@@ -1,4 +1,37 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coins/Mesh/CopperCoins.fbx.meta
+guid: fcd23317047ce99448fc69521177129c
+timeCreated: 1577119938
+licenseType: Store
+========
+guid: ff53e1a687da3e94aad8ba03f54ffac9
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Assets/Imported assets/LowPolyFarmLite/Models/Box_01.fbx.meta
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+<<<<<<<< HEAD:Zayan/Roller Ball/Assets/Coins/Devtoid - Gold Coins/3D Assets/Copper Coins/Mesh/CopperCoins.fbx.meta
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: GoldCoins
+========
+    2100000: Farm_Mat_01
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Box_01
+  externalObjects: {}
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Assets/Imported assets/LowPolyFarmLite/Models/Box_01.fbx.meta
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+=======
+>>>>>>> Stashed changes
 guid: fcd23317047ce99448fc69521177129c
 timeCreated: 1577119938
 licenseType: Store
@@ -14,6 +47,10 @@ ModelImporter:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+<<<<<<< Updated upstream
+=======
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -26,19 +63,56 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+=======
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+<<<<<<< Updated upstream
     clipAnimations: []
     isReadable: 1
+=======
+<<<<<<< HEAD
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+=======
+    clipAnimations: []
+    isReadable: 1
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   meshes:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
+=======
+>>>>>>> Stashed changes
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -46,16 +120,40 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+<<<<<<< Updated upstream
+=======
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+=======
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+<<<<<<< Updated upstream
   importAnimation: 1
+=======
+<<<<<<< HEAD
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+=======
+  importAnimation: 1
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 3cf3941c2921823488de6918b8dabfa8
+=======
+<<<<<<<< HEAD:Assets/AasishMaharjan/Sounds/Audio on use/SFX_UI_Button_Organic_Plastic_Thin_Generic_1.wav.meta
+guid: 3cf3941c2921823488de6918b8dabfa8
+========
+guid: fe0af666d1c3b3a45af4806253d64879
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/AasishMaharjan/Sounds/Free UI Click Sound Effects Pack/AUDIO/Pop/collectable collide sound.wav.meta
+>>>>>>> Stashed changes
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

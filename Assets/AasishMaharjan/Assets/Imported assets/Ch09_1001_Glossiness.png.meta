@@ -1,12 +1,32 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: af6ee52681dd741449c04e090198a4d2
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Ch09_1001_Glossiness.png.meta
+guid: af6ee52681dd741449c04e090198a4d2
+========
+guid: 1924363c823fcc246864b2883527b038
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Buttons and Icons/pink color buttons/back.png.meta
+=======
+guid: af6ee52681dd741449c04e090198a4d2
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
+<<<<<<< Updated upstream
     enableMipMap: 1
+=======
+<<<<<<< HEAD
+    enableMipMap: 0
+=======
+    enableMipMap: 1
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -36,6 +56,18 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+=======
+>>>>>>> Stashed changes
     wrapU: 0
     wrapV: 0
     wrapW: 0
@@ -43,6 +75,10 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 0
+<<<<<<< Updated upstream
+=======
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +87,21 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
+<<<<<<< Updated upstream
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
+=======
+<<<<<<< HEAD
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+=======
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -143,7 +191,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream
     spriteID: 
+=======
+<<<<<<< HEAD
+    spriteID: 5e97eb03825dee720800000000000000
+=======
+    spriteID: 
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
     internalID: 0
     vertices: []
     indices: 

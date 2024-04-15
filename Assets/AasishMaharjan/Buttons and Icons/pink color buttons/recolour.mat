@@ -7,7 +7,19 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_Name: recolour
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/AasishMaharjan/Buttons and Icons/pink color buttons/recolour.mat
+  m_Name: recolour
+========
+  m_Name: Texture 2
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Assets/Imported assets/ADG_Textures 1/Food Pack-Demo/Texture/Materials/Texture 2.mat
+=======
+  m_Name: recolour
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -41,7 +53,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
+<<<<<<< Updated upstream
         m_Texture: {fileID: 0}
+=======
+<<<<<<< HEAD
+        m_Texture: {fileID: 2800000, guid: fe53a39cc01ec94418ccb47026290fcf, type: 3}
+=======
+        m_Texture: {fileID: 0}
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:

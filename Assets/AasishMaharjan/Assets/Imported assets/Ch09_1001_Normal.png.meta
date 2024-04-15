@@ -1,13 +1,40 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 8b40873fe2bf26446ad1c265e7f3a3ad
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Ch09_1001_Normal.png.meta
+guid: 8b40873fe2bf26446ad1c265e7f3a3ad
+========
+guid: 14d9f0a5210a9c443ac79d5342d63ce1
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Buttons and Icons/pink color buttons/credits.png.meta
+=======
+guid: 8b40873fe2bf26446ad1c265e7f3a3ad
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
+<<<<<<< Updated upstream
     enableMipMap: 1
     sRGBTexture: 0
+=======
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Ch09_1001_Normal.png.meta
+    enableMipMap: 1
+    sRGBTexture: 0
+========
+    enableMipMap: 0
+    sRGBTexture: 1
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Buttons and Icons/pink color buttons/credits.png.meta
+=======
+    enableMipMap: 1
+    sRGBTexture: 0
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -36,6 +63,18 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+=======
+>>>>>>> Stashed changes
     wrapU: 0
     wrapV: 0
     wrapW: 0
@@ -43,6 +82,10 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 0
+<<<<<<< Updated upstream
+=======
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +94,25 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
+<<<<<<< Updated upstream
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 1
+=======
+<<<<<<< HEAD
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+<<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Imported assets/Ch09_1001_Normal.png.meta
+  textureType: 1
+========
+  textureType: 8
+>>>>>>>> aed97e800a90fba47fb53fef501a1431d207e700:Assets/AasishMaharjan/Buttons and Icons/pink color buttons/credits.png.meta
+=======
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -143,7 +202,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream
     spriteID: 
+=======
+<<<<<<< HEAD
+    spriteID: 5e97eb03825dee720800000000000000
+=======
+    spriteID: 
+>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194
+>>>>>>> Stashed changes
     internalID: 0
     vertices: []
     indices: 

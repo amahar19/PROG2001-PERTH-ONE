@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 5a3f50047e0637c4aba17196dd3928b1
+=======
+<<<<<<<< HEAD:Assets/AasishMaharjan/Buttons and Icons/RECOLOR/Buttons/RECOLOR BLUE-07.png.meta
+guid: 5a3f50047e0637c4aba17196dd3928b1
+========
+guid: f95d39dccf2cfdd4283aa40c19f52d8a
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/AasishMaharjan/Buttons and Icons/close.png.meta
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

@@ -19,16 +19,7 @@ public class UIManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        LivesText.text = HealthScript.playerLives.ToString("Lives:" + HealthScript.playerLives);
-
-        if (HealthScript.playerLives == 0)
-        {
-            GameOverScreen.SetActive(true);
-            
-        }
         
-    }
-
     public void ResetUI()
     {
         GameOverScreen.SetActive(false);

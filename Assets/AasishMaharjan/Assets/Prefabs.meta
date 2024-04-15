@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 292c589d9d0c7144a80858ed484f808e
+=======
+<<<<<<<< HEAD:Assets/AasishMaharjan/Assets/Prefabs.meta
+guid: 292c589d9d0c7144a80858ed484f808e
+========
+guid: ab7ecd5c4efe14141a90ba9ac14a982b
+>>>>>>>> e7064dc4532d260a0c7570d5e9295a5f76733194:Assets/Kowsar Rahman/ADG_Textures/Food Pack-Demo/Prefabs.meta
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
