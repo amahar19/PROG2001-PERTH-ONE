@@ -12,4 +12,9 @@ public class DevsMenu : MonoBehaviour
 
 
     }
+
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
 }
