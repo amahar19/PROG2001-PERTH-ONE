@@ -234,7 +234,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 29223701}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: ClickToHomeAasish
+        m_MethodName: ClickToGameDev
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1118,8 +1118,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Select any scenes to play the game.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2035,7 +2035,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 1056032851}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: ClickToHomeAasish
+        m_MethodName: ClickToGameSharan
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2194,7 +2194,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 1114474923}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: ClickToHomeAasish
+        m_MethodName: ClickToHomeRahman
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
