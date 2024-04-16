@@ -1110,6 +1110,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &60370571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 60370560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &62671643
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2004,8 +2017,16 @@ PrefabInstance:
       value: Bundt Cake
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
@@ -2937,6 +2958,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &154495978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 154495969}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &163323724
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3421,8 +3455,16 @@ PrefabInstance:
       value: Tomato (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
@@ -3622,8 +3664,16 @@ PrefabInstance:
       value: Pizza Margarita cut (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
@@ -4258,8 +4308,16 @@ PrefabInstance:
       value: Bundt Cake (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
@@ -4590,6 +4648,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &243553888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 243553879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &246734028
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4662,8 +4733,16 @@ PrefabInstance:
       value: Doughnut H (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
@@ -5489,7 +5568,7 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
---- !u!114 &276805300
+--- !u!114 &276805303
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5501,7 +5580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreTextAasish: {fileID: 0}
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &280519920
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5574,8 +5653,16 @@ PrefabInstance:
       value: Tomato (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
@@ -5692,7 +5779,7 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
---- !u!114 &285648090
+--- !u!114 &285648093
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5704,7 +5791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreTextAasish: {fileID: 0}
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &290483655
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6428,7 +6515,7 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
---- !u!114 &341189144
+--- !u!114 &341189147
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6440,7 +6527,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreTextAasish: {fileID: 0}
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1 &345337473 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
@@ -6492,6 +6579,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &345337484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 345337473}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1 &347416644 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
@@ -6543,6 +6643,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &347416653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 347416644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &349683391
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7178,6 +7291,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &399025338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 399025329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &405737238
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8304,8 +8430,16 @@ PrefabInstance:
       value: Bundt Cake (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
@@ -8636,6 +8770,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &486668297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 486668286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &490149331
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9695,6 +9842,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &552054613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 552054604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &552589526
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10577,6 +10737,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &587633588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 587633577}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &590069116
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11836,8 +12009,16 @@ PrefabInstance:
       value: Coffee Cup C (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
@@ -11892,7 +12073,7 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
---- !u!114 &685724672
+--- !u!114 &685724675
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -11904,7 +12085,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreTextAasish: {fileID: 0}
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &694384833
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13223,7 +13404,7 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
---- !u!114 &747740216
+--- !u!114 &747740219
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -13235,7 +13416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreTextAasish: {fileID: 0}
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &753242897
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14376,8 +14557,16 @@ PrefabInstance:
       value: Doughnut H
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
@@ -14980,7 +15169,7 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
---- !u!114 &860794748
+--- !u!114 &860794751
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -14992,7 +15181,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreTextAasish: {fileID: 0}
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &865134564
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15316,6 +15505,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &887465497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 887465488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &889106868
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15657,8 +15859,16 @@ PrefabInstance:
       value: Doughnut H (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
@@ -18822,7 +19032,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &1134629981
 Canvas:
   m_ObjectHideFlags: 0
@@ -18832,7 +19042,7 @@ Canvas:
   m_GameObject: {fileID: 1134629978}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 2
+  m_RenderMode: 0
   m_Camera: {fileID: 1442103573}
   m_PlaneDistance: 10
   m_PixelPerfect: 0
@@ -19289,6 +19499,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &1174920977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1174920966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &1180364477
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19795,7 +20018,7 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
---- !u!114 &1209259949
+--- !u!114 &1209259952
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -19807,7 +20030,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreTextAasish: {fileID: 0}
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &1210794149
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21396,8 +21619,16 @@ PrefabInstance:
       value: Pizza Margarita cut (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
@@ -23979,6 +24210,7 @@ GameObject:
   - component: {fileID: 1442103572}
   - component: {fileID: 1442103575}
   - component: {fileID: 1442103576}
+  - component: {fileID: 1442103577}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -24084,6 +24316,18 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1442103577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442103571}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07a532759252a6a468a3961081289afe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1443893545
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25022,8 +25266,16 @@ PrefabInstance:
       value: Tomato
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
@@ -25202,7 +25454,7 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
---- !u!114 &1515742997
+--- !u!114 &1515743000
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -25214,7 +25466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreTextAasish: {fileID: 0}
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &1516287829
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25947,8 +26199,16 @@ PrefabInstance:
       value: Pizza Margarita cut (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
@@ -26157,8 +26417,16 @@ PrefabInstance:
       value: Coffee Cup C
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
@@ -26303,8 +26571,16 @@ PrefabInstance:
       value: Doughnut H (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8f6d5864bd720345975ccf783fc80cb, type: 3}
@@ -26757,8 +27033,16 @@ PrefabInstance:
       value: Tomato (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f23453fdfcf1aa94bbeabc18bb0e50cf, type: 3}
@@ -26946,8 +27230,16 @@ PrefabInstance:
       value: Pizza Margarita cut
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b7576ae8bc8ab547ba0be39661997e8, type: 3}
@@ -28153,8 +28445,16 @@ PrefabInstance:
       value: Coffee Cup C (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
@@ -28209,6 +28509,19 @@ MonoBehaviour:
   collectSound: {fileID: 942314106}
   congratulationsPanel: {fileID: 1134629978}
   scoreText: {fileID: 1896016205}
+--- !u!114 &1703340978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1703340967}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60804bcac189fa43b94bde86e568703, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextAasish: {fileID: 1896016205}
 --- !u!1001 &1715334242
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31293,8 +31606,16 @@ PrefabInstance:
       value: Coffee Cup C (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a812387f4a6adce46950fd55db02f4b7, type: 3}
@@ -33902,8 +34223,16 @@ PrefabInstance:
       value: Bundt Cake (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
       propertyPath: m_TagString
       value: CollectiblesAasish
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22a349f6a052b864e84d2ce6b315429b, type: 3}
