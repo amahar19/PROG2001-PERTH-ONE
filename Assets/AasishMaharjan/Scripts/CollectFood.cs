@@ -19,7 +19,7 @@ public class CollectFood : MonoBehaviour
             Destroy(gameObject);
 
             // Check if all collectibles are collected
-            if (AreAllCollectiblesCollected())
+            if (AreAllCollectiblesCollected ())
             {
                 ShowCongratulationsPanel();
             }
