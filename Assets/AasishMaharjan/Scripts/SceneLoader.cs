@@ -78,10 +78,10 @@ public class SceneLoader : MonoBehaviour
     }
 
 
-    public void ClickToGameDev()
-    {
-        SceneManager.LoadScene(12);
-    }
+   // public void ClickToGameDev()
+   // {
+     //   SceneManager.LoadScene(12);
+    //}
 
 
     public void ClickToGameRahman()

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+
 public class PlayerControlKowsar : MonoBehaviour
 {
     public float speed = 30f;
@@ -49,4 +50,5 @@ void Update()
             }
         }
     }
+    
 }

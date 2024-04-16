@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Barrier
-  - CollectiblesAasish
-  - HungryBoy
+  - Obstacle
+  - Ground
+  - Coin
   layers:
   - Default
   - TransparentFX
