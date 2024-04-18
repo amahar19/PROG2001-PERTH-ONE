@@ -59,4 +59,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sharan Adhikari/Scene/SharanMenu.unity
     guid: b99292750eb58f148b4f4bfc3df6a662
+  - enabled: 1
+    path: Assets/Zayan/Scenes/Menu.unity
+    guid: 8868b70716ed1394bb0d3714739fe954
+  - enabled: 1
+    path: Assets/Zayan/Scenes/Game.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}

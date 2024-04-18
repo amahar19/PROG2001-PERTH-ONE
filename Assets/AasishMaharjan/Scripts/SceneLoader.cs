@@ -109,4 +109,14 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(17);
     }
+
+    public void ClickToMenuZayan()
+    {
+        SceneManager.LoadScene(18);
+    }
+
+    public void ClickToGameZayan()
+    {
+        SceneManager.LoadScene(19);
+    }
 }

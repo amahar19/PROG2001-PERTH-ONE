@@ -15,7 +15,7 @@ public class CameraControllerAasish : MonoBehaviour
     {
         cam = Camera.main;
         characterController = GetComponent<CharacterController>();
-        Cursor.lockState = CursorLockMode.Locked;
+        
     }
 
     // Update is called once per frame
